@@ -4,3 +4,7 @@
 [submodule "base"]
 	path = base
 	url = ../base-port-macos
+[submodule "imaging"]
+	path = imaging
+	url = ../port-imaging
+	branch = main
