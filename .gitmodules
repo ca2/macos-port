@@ -8,3 +8,7 @@
 	path = imaging
 	url = ../port-imaging
 	branch = main
+[submodule "user-generation1"]
+	path = user-generation1
+	url = ../../cpp-port/user-generation1
+	branch = main
